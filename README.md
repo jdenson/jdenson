@@ -1,8 +1,8 @@
-## Hi there 👋 I'm Jason Denson
+## Hi there 👋 I'm Jason Hill
 
 - 🔭 I’m currently working on:
   - Developing and deploying my first application in AWS.
-  - My Bachelor's Degree in Criminal Justice with a focus on cybercrime.
+  - My Bachelor's Degree in Cybersecurity with a minor in Criminal Justice.
 - 🌱 I’m currently learning:
   - Advanced Kubernetes and Docker techniques.
   - AWS services and strategies.
