@@ -19,6 +19,8 @@
   - My homelab infrastructure or services.
 - 📫 How to reach me:
   - LinkedIn: [https://linkedin.com/jasondenson](https://www.linkedin.com/in/jasondenson/)
+  - My personal site: [https://jmhill.me](https://jmhill.me)
+  - I'm in the FediVerse! [Mastodon](https://mastodon.mytech.nexus/@jmhill)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy watching gaming videos, tool and electronics restoration, and computer/cyber education content on YouTube.
 
